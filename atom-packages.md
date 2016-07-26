@@ -32,6 +32,18 @@ I have found most of the following [Atom](http://atom.io/) [packages](http://ato
 * [sort-lines](https://atom.io/packages/sort-lines)
 * [symbols-tree-view](https://atom.io/packages/symbols-tree-view)
 
+## Reference
+
+### "New Package Roundup" Posts on the [Atom Blog](http://blog.atom.io/)
+
+* [August 6, 2015](http://blog.atom.io/2015/08/06/new-package-roundup.html)
+* [May 21, 2015](http://blog.atom.io/2015/05/21/new-package-roundup.html)
+* [February 23, 2015](http://blog.atom.io/2015/02/23/new-package-roundup.html)
+* [September 17, 2014](http://blog.atom.io/2014/09/17/new-package-roundup.html)
+* [August 8, 2014](http://blog.atom.io/2014/08/08/new-package-roundup.html)
+* [June 23, 2014](http://blog.atom.io/2014/06/23/new-package-roundup.html)
+* [March 10, 2014](http://blog.atom.io/2014/03/10/new-package-roundup.html)
+
 ## Who compiled this info?
 
 This information was gathered and prepared by [Brian Sexton](http://briansexton.com/) of [Carroket, Inc.](http://carroket.com/)
