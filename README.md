@@ -14,7 +14,6 @@ I also have several potentially useful things posted on [GitHub Gist](https://gi
 
 You may also find some useful information and code in [my personal repositories](https://github.com/bdsexton?tab=repositories) or [Carroket's repositories](https://github.com/carroket).
 
-
 ## Whose notes are these?
 
 These notes are by [Brian Sexton](http://briansexton.com/) of [Carroket, Inc.](http://carroket.com/)

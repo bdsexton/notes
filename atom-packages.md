@@ -36,13 +36,13 @@ I have found most of the following [Atom](http://atom.io/) [packages](http://ato
 
 ### "New Package Roundup" Posts on the [Atom Blog](http://blog.atom.io/)
 
-* [August 6, 2015](http://blog.atom.io/2015/08/06/new-package-roundup.html)
-* [May 21, 2015](http://blog.atom.io/2015/05/21/new-package-roundup.html)
-* [February 23, 2015](http://blog.atom.io/2015/02/23/new-package-roundup.html)
-* [September 17, 2014](http://blog.atom.io/2014/09/17/new-package-roundup.html)
-* [August 8, 2014](http://blog.atom.io/2014/08/08/new-package-roundup.html)
-* [June 23, 2014](http://blog.atom.io/2014/06/23/new-package-roundup.html)
-* [March 10, 2014](http://blog.atom.io/2014/03/10/new-package-roundup.html)
+* ["New Package Roundup" on August 6, 2015](http://blog.atom.io/2015/08/06/new-package-roundup.html)
+* ["New Package Roundup" on May 21, 2015](http://blog.atom.io/2015/05/21/new-package-roundup.html)
+* ["New Package Roundup" on February 23, 2015](http://blog.atom.io/2015/02/23/new-package-roundup.html)
+* ["New Package Roundup" on September 17, 2014](http://blog.atom.io/2014/09/17/new-package-roundup.html)
+* ["New Package Roundup" on August 8, 2014](http://blog.atom.io/2014/08/08/new-package-roundup.html)
+* ["New Package Roundup" on June 23, 2014](http://blog.atom.io/2014/06/23/new-package-roundup.html)
+* ["New Package Roundup" on March 10, 2014](http://blog.atom.io/2014/03/10/new-package-roundup.html)
 
 ## Who compiled this info?
 
