@@ -4,7 +4,7 @@
 
 ## Packages
 
-I have found most of the following to be useful or at least potentially so.
+I have found most of the following [Atom](http://atom.io/) [packages](http://atom.io/packages) to be useful or at least potentially so.
 
 * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
 * [activate-power-mode](https://atom.io/packages/activate-power-mode) - _This is just for fun and probably best used sparingly._
