@@ -15,7 +15,11 @@ I have found most of the following [Atom](http://atom.io/) [packages](http://ato
 * [emmet](https://atom.io/packages/emmet) - _Emmet's key bindings conflict with built-in markdown-preview key bindings._
 * [expose](https://atom.io/packages/expose)
 * [file-icons](https://atom.io/packages/file-icons)
+* [goto](https://atom.io/packages/goto)
+* [goto-definition](https://atom.io/packages/goto-definition)
+* [hyperclick](https://atom.io/packages/hyperclick)
 * [imdone-atom](https://atom.io/packages/imdone-atom)
+* [js-hyperclick](https://atom.io/packages/js-hyperclick)
 * [language-htaccess](https://atom.io/packages/language-htaccess)
 * [linter](https://atom.io/packages/linter) - _This is installed automatically as a dependency for linter-jshint, etc._
 * [linter-csslint](https://atom.io/packages/linter-csslint)
