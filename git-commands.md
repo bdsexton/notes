@@ -38,6 +38,8 @@ git config --global core.editor atom
 
 [Git - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
+[github - More than one value for the key user.name Git - Stack Overflow](http://stackoverflow.com/questions/4310974/more-than-one-value-for-the-key-user-name-git)
+
 [Setting your username in Git - User Documentation](https://help.github.com/articles/setting-your-username-in-git/)
 
 [Setting your email in Git - User Documentation](https://help.github.com/articles/setting-your-email-in-git/)
